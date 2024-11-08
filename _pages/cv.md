@@ -9,7 +9,7 @@ redirect_from:
 
 CV
 ======
-Please kindly find my full resume [here](files/zijiezhou-cv.pdf).
+Please kindly find my full resume [here](https://github.com/zijiezho/zijiezho.github.io/blob/14d6895fea1cd2f4a2160259ee85e31a55e99f47/files/zijiezhou-cv.pdf).
 
 Education
 ======
