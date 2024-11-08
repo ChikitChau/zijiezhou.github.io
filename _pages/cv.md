@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 CV
 ======
-Please kindly find my full resume [here](files/zijiezhou-cv.pdf).
+Please kindly find my full resume [here](/files/zijiezhou-cv.pdf).
 
 Education
 ======
